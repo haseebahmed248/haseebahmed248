@@ -1,53 +1,67 @@
-# Haseeb Ahmed - Software Engineer :grinning:
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-Welcome to my GitHub profile! I'm Haseeb Ahmed, an undergraduate Software Engineering student at FAST-NUCES. I'm passionate about crafting efficient and robust software solutions. Explore my projects and contributions below.
+###
 
-## Skills
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-- **Programming Languages:**
-  - C++
-  - Java
-  - JavaScript
+###
 
-- **Database Management:**
-  - Oracle SQL
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
-- **Machine Learning:**
+###
 
-- **Testing:**
-  - Utilize JUnit 5 for Java project testing
-  - Proficient in Playwright testing for web applications, including BDD framework
-  - Insomnia for API testing
-  - HTTP client with Java for GUI testing
+<h1 align="center">Welcome!! 👋</h1>
 
-- **Development Practices:**
-  - Familiar with Agile development methodologies
+###
 
-- **Design Patterns and Architectures:**
-  - Proficient in applying design patterns
-  - Familiar with various software architectures
+<h3 align="left">👩‍💻  About Me</h3>
 
-## Projects
+###
 
-- **[Poetry Management System](https://github.com/haseebahmed248/Poetry-management-System):**
-  This project is centered around a comprehensive exploration of the intrinsic value embedded within design patterns and architectures in the Java programming language.
+<p align="left">I'm a Software Enigneer from FAST-NUCES<br><br>- 🔭 I’m a UnderGraduate Student<br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I do Learning/Gaming</p>
 
-  The study delves into the nuanced interplay of these concepts, particularly within the context of Java Swing, Apache SQL, and the precise implementation of JUnit test cases. The objective is to gain a thorough understanding of how these       elements synergize to enhance the overall robustness and efficiency of software solutions.
+###
 
-- **[Software Unit Testing](https://github.com/haseebahmed248/UnitTesting):**
-  This project demonstrates the integration of API and GUI testing using a Docker image of Metabase.
-  Metabase is a powerful business intelligence tool, and by utilizing its Docker image, we can easily set up an environment for testing various aspects of the application.
+<h3 align="left">🛠 Language and tools</h3>
 
-:zap: ## Playwright Testing
+###
 
-I famalier with Playwright testing for robust and reliable web application testing, employing Behavior-Driven Development (BDD) framework. Leverage my expertise to ensure your web projects are thoroughly tested, and their behavior aligns with your expectations.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
 
-:zap: ## Insomnia - API Testing
+###
 
-With proficiency in Insomnia, I conduct comprehensive API testing. Guarantee the functionality and reliability of your APIs by employing industry-standard testing practices.
+<h3 align="left">🔥   My Stats :</h3>
 
-## HTTP Client with Java - GUI Testing
+###
 
-I excel in GUI testing using HTTP client with Java. Ensure a seamless and user-friendly experience for your applications with my meticulous GUI testing approach.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-Feel free to reach out for collaboration or if you have any questions. Let's build exceptional software together!
+###
