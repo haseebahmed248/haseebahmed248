@@ -1,7 +1,7 @@
 ![Header](./myheader.png)
 
 # 💫 About Me:
-🔭 I’m UnderGraduate Software Engineer from FAST-NUCES<br>👯 I’m looking for opportunities like internships, reasearch projects,etc.<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about Java, C++, Testing<br>⚡ Fun fact I am a Gamer
+🔭 I’m Software Engineer from FAST-NUCES<br>👯 I’m looking for opportunities <br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about Java, C++, Testing<br>⚡ Fun fact I am a Gamer
 
 
 ## 🌐 Socials:
