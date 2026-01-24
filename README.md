@@ -1,7 +1,7 @@
 ![Header](./myheader.png)
 
 # 💫 About Me:
-🔭 Full-Stack Developer at **Infintive.ai** | FAST-NUCES Graduate (Software Engineering, CGPA: 3.26)<br>
+🔭 Full-Stack Developer at **Infintive.ai** | FAST-NUCES Graduate (Software Engineering<br>
 ⚡ Building AI-powered applications and exploring systems programming with **Go**<br>
 🌱 Currently diving deep into: **TCP/IP networking, low-level systems design, and distributed systems**<br>
 💬 Ask me about: **Go, TypeScript/JavaScript, React/Next.js, Node.js, PostgreSQL, System Design**<br>
