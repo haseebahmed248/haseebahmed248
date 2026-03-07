@@ -1,43 +1,57 @@
 ![Header](./myheader.png)
 
-# 💫 About Me:
-🔭 Full-Stack Developer at **Infintive.ai** | FAST-NUCES Graduate (Software Engineering<br>
-⚡ Building AI-powered applications and exploring systems programming with **Go**<br>
-🌱 Currently diving deep into: **TCP/IP networking, low-level systems design, and distributed systems**<br>
-💬 Ask me about: **Go, TypeScript/JavaScript, React/Next.js, Node.js, PostgreSQL, System Design**<br>
-🏆 Hackathon Champion: 2nd place at FAST-DAIRA AI Hackathon 2025 | 3rd place at GIKI Hackathon<br>
-🎮 Fun fact: I'm a gamer who codes
+## Backend & Systems Engineer | Go | Node.js | TypeScript
+
+I build systems from scratch to understand how they work underneath. Not wrappers around libraries — raw implementations from TCP sockets up.
+
+Currently building AI-powered applications at **Infintive.ai** | FAST-NUCES CS Graduate
 
 ---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/haseeb.tar.xz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_haseeb_.x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseeb-ahmed-dev)
+## What I've Built From Scratch (in Go)
+
+### [RawHTTP](https://github.com/haseebahmed248/rawhttp) — HTTP/1.1 Server from Raw TCP
+Built a fully functional HTTP server without using Go's `net/http`. Handles concurrent connections with goroutines, parses requests at the byte level, routes dynamically, serves static files, and supports JSON APIs.
+
+`TCP Sockets` `HTTP Parsing` `Concurrency` `Request Routing`
+
+### [Balancr](https://github.com/haseebahmed248/balancr) — Load Balancer from Scratch
+Distributes traffic across multiple backends with round-robin and weighted round-robin algorithms. Includes health checks, YAML config, structured logging, and metrics tracking.
+
+`TCP Proxying` `Round-Robin` `Health Checks` `Thread Safety`
+
+### [LiteKV](https://github.com/haseebahmed248/LiteKV) — Redis-Compatible In-Memory Database
+Full RESP protocol implementation. Supports strings, lists, hashes, sets, TTL expiry, persistence, pub/sub, and pipelining. Benchmarked at **126,582 GET req/s** and **116,279 SET req/s**.
+
+`RESP Protocol` `Data Structures` `Pub/Sub` `Persistence` `Pipelining`
+
+### [FlowMQ](https://github.com/haseebahmed248/FlowMQ) — Distributed Message Queue (mini Kafka)
+Binary protocol, topic-based pub/sub, at-least-once delivery with ACK/NACK, consumer groups, Write-Ahead Log persistence, dead letter queues. Dockerized with multi-container setup.
+
+`Binary Protocol` `WAL` `Consumer Groups` `Docker` `Delivery Guarantees`
 
 ---
 
-## 💻 Tech Stack:
+## Tech Stack
 
-### Languages
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+**Systems & Backend:** Go, Node.js, Express.js, TCP/IP, Protocol Design, Docker
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Material-UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+**Full Stack:** React, Next.js, TypeScript, JavaScript, PostgreSQL, MongoDB, Redis
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+**Tools:** Git, AWS, Linux, Prisma, Jest
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Experience
+
+**Infintive.ai** — Full-Stack Developer *(Oct 2025 - Present)*
+Building AI-powered applications with React, Node.js, and LLM integrations.
+
+**Tech N Dev** — Full-Stack Developer *(Previous)*
+Built production web applications with React, Node.js, and PostgreSQL.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=haseebahmed248&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseeb-ahmed-dev) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/haseeb.tar.xz)
